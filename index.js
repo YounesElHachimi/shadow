@@ -12,4 +12,4 @@ function shadow(options) {
     });
   }
   
-  module.export.shadow = shadow;
+  module.exports.shadow = shadow;
