@@ -1,7 +1,7 @@
 {
   "name": "yns-shadow",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "A demo project to learn npm.",
   "main": "index.js",
   "repository": {
     "type": "git",
